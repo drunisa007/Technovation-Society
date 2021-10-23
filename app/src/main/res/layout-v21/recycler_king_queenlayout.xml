@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardElevation="5dp"
+    android:id="@+id/cardview_main"
+    android:layout_margin="8dp"
+    android:layout_height="wrap_content">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_height="match_parent"
+        tools:ignore="UseCompoundDrawables">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="95dp"
+            android:transitionName="away"
+            android:paddingTop="5dp"
+            android:layout_marginTop="15dp"
+            android:id="@+id/recycler_king_imageview"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:id="@+id/recycler_king_textview"
+            android:gravity="center"
+            android:layout_marginBottom="10dp"
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:text="The Whole King"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body2" />
+
+    </LinearLayout>
+
+
+
+</android.support.v7.widget.CardView>

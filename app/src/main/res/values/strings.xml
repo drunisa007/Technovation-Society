@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FW 18 Voting</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cu">This is a voting application for 2017 - 2018 Fresher Welcome Computer University (Mandalay).</string>
+    <string name="text">If you wanna give any advice or liked like this app , feel free to contact me .</string>
+    <string name="about">About</string>
+</resources>

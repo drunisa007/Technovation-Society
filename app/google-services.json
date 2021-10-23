@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "584570310431",
+    "firebase_url": "https://voting-e3cdd.firebaseio.com",
+    "project_id": "voting-e3cdd",
+    "storage_bucket": "voting-e3cdd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584570310431:android:e823a6aa718e717d",
+        "android_client_info": {
+          "package_name": "com.nura.cumdyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584570310431-ufjd3lhef1scja94tn5oep7qb580193v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy3sVulYfz95XDShkD6bBJVhAFuwPTGwQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
